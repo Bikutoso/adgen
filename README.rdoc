@@ -1,0 +1,3 @@
+= adgen
+
+Generates DNS blocklists
